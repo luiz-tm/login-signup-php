@@ -6,8 +6,21 @@
 
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(243, 236, 236);
+    background-image: url('bg.jpg');
+    background-size: cover;
     text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+main > p {
+    color: white;
+}
+
+footer > p {
+    color: white;
 }
 
 header {
